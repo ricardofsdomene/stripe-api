@@ -1,1 +1,1 @@
-# jobs-api
+# stripe-api
